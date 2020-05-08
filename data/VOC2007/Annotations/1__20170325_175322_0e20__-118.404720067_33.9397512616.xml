@@ -1,7 +1,7 @@
 <annotation>
 	<folder>planes</folder>
-	<filename>1__20170325_175322_0e20__-118.404720067_33.9397512616.png</filename>
-	<path>C:\Pawel\Datasets\planes\Images\1__20170325_175322_0e20__-118.404720067_33.9397512616.png</path>
+	<filename>1__20170325_175322_0e20__-118.404720067_33.9397512616.jpg</filename>
+	<path>..\data\VOC2007\JPEGImages\1__20170325_175322_0e20__-118.404720067_33.9397512616.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
