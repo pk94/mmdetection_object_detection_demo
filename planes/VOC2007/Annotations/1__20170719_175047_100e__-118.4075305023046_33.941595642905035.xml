@@ -1,0 +1,26 @@
+<annotation>
+	<folder>planes</folder>
+	<filename>1__20170719_175047_100e__-118.4075305023046_33.941595642905035.png</filename>
+	<path>C:\Pawel\Datasets\planes\Images\1__20170719_175047_100e__-118.4075305023046_33.941595642905035.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>20</width>
+		<height>20</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>20</xmax>
+			<ymax>20</ymax>
+		</bndbox>
+	</object>
+</annotation>
