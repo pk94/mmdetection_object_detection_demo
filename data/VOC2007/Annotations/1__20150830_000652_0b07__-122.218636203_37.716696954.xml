@@ -1,13 +1,13 @@
 <annotation>
-	<folder>planes</folder>
+	<folder>JPEGImages</folder>
 	<filename>1__20150830_000652_0b07__-122.218636203_37.716696954.jpg</filename>
-	<path>..\data\VOC2007\JPEGImages\1__20150830_000652_0b07__-122.218636203_37.716696954.jpg</path>
+	<path>C:\Pawel\Datasets\data\VOC2007\JPEGImages\1__20150830_000652_0b07__-122.218636203_37.716696954.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>19</width>
-		<height>19</height>
+		<width>20</width>
+		<height>20</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>1</ymin>
-			<xmax>20</xmax>
+			<xmax>19</xmax>
 			<ymax>20</ymax>
 		</bndbox>
 	</object>
