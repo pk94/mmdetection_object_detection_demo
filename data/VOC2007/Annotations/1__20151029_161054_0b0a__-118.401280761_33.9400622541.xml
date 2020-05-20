@@ -1,7 +1,7 @@
 <annotation>
-	<folder>JPEGImages</folder>
+	<folder>images</folder>
 	<filename>1__20151029_161054_0b0a__-118.401280761_33.9400622541.jpg</filename>
-	<path>C:\Pawel\Datasets\data\VOC2007\JPEGImages\1__20151029_161054_0b0a__-118.401280761_33.9400622541.jpg</path>
+	<path>..\data\VOC2007\JPEGImages\1__20151029_161054_0b0a__-118.401280761_33.9400622541.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,12 +14,12 @@
 	<object>
 		<name>plane</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>1</ymin>
-			<xmax>20</xmax>
+			<xmax>19</xmax>
 			<ymax>19</ymax>
 		</bndbox>
 	</object>
