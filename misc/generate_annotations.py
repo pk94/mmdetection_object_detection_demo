@@ -18,9 +18,9 @@ def train_test_split(files, files_path, test=0.1):
 
 def png_to_jpg(path):
     files = [f for f in listdir(path) if isfile(join(path, f))]
-    for file in files:
+    for idx, file in enumerate(files):
         im1 = Image.open(f'{path}\\{file}')
-        im1.save(f'{path}2\{file[:-3]}jpg')
+        im1.save(f'{path}2\{idx}.jpg')
 
 
 dataset_path = r'..\data\VOC2007\JPEGImages'
